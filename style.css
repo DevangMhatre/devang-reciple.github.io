@@ -15,7 +15,7 @@
     color: hsl(228, 45%, 44%); 
 } */
 
-@media (min-width: 300px) and (max-width: 480px){
+@media (min-width: 300px) and (max-width: 500px){
     img{
         height: 180px;
         width: 450px;
@@ -81,6 +81,6 @@
         padding-left: 15px;
     }
 
-    
+
 
 } 
